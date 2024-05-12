@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Single_Channel_fNIRS.PcbDoc]
+   Generated File[Single_Channel_fNIRS.TXT]
+   Generated File[Single_Channel_fNIRS.LDP]
+   Generated File[Single_Channel_fNIRS.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:29:37 AM On 5/5/2024

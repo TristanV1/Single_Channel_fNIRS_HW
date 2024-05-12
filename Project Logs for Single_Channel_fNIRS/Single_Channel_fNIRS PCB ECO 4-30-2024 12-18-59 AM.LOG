@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=-10V Pin=C14-1
+Removed Pin From Net: NetName=\T\I\A\_\R\S\T\ Pin=R2-1
+Removed Pin From Net: NetName=\T\I\A\_\R\S\T\ Pin=U2-11
+Removed Pin From Net: NetName=-10V Pin=U4-2
+Added Component: Designator=C19(CAPC1210(3225)190_M)
+Added Component: Designator=C20(CAPC1210(3225)190_M)
+Added Component: Designator=U5(LM2664)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT26A-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-178-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM2664&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Switch Caps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High-Reliability"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Molded SOT-23, .115 x .063 x .040in Body, 6 Lead, .0375in in Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DBV0006A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "S03A*XTT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "N"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-10V Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=\T\I\A\_\R\S\T\ Pin=R1-1
+Added Pin To Net: NetName=\T\I\A\_\R\S\T\ Pin=U2-12
+Added Pin To Net: NetName=-10V Pin=U5-2
+Added Pin To Net: NetName=-5V Pin=U5-4
+Added Pin To Net: NetName=-5V Pin=U5-5
+Change Net Name : Old Net Name=-10V New Net Name=-15V
+Added Pin To Net: NetName=-10V Pin=C14-1
+Added Pin To Net: NetName=-10V Pin=U4-2
+Added Pin To Net: NetName=-10V Pin=U5-1
+Added Net: Name=-10V
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=U5-6
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=U5-3
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-11
+Added Net: Name=NetR2_1
+Added Class: Name=Single_Channel_fNIRS
+Added Room: Name=Single_Channel_fNIRS
