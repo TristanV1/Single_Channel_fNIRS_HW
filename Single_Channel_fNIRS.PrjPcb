@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for Single_Channel_fNIRS
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -134,74 +134,70 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\BOM\Bill of Materials-Single_Channel_fNIRS.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\NC Drill\Single_Channel_fNIRS.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\Gerber\Single_Channel_fNIRS.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\Gerber\Single_Channel_fNIRS.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\Gerber\Single_Channel_fNIRS.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\Gerber\Single_Channel_fNIRS.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\Gerber\Single_Channel_fNIRS.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\Gerber\Single_Channel_fNIRS.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\Gerber\Single_Channel_fNIRS.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\Gerber\Single_Channel_fNIRS.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\Gerber\Single_Channel_fNIRS.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\Gerber\Single_Channel_fNIRS.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\NC Drill\Single_Channel_fNIRS.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\Gerber\Single_Channel_fNIRS.REP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\Gerber\Single_Channel_fNIRS.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\ExportSTEP\Single_Channel_fNIRS.step
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Single_Channel_fNIRS\NC Drill\Single_Channel_fNIRS.TXT
 DItemRevisionGUID=
 
@@ -252,7 +248,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Single_Channel_fNIRS
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
